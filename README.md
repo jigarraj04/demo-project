@@ -1,4 +1,4 @@
 # demo-project
-author - jigar raj
+author - jigar raj bhoi
 <br>
 next line
